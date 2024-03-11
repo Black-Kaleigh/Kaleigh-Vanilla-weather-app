@@ -112,3 +112,8 @@ footer {
 .weather-forecast-temperature {
   font-size: 13px;
 }
+
+#forecast {
+  display: flex;
+  justify-content: space-around;
+}
